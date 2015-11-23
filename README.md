@@ -1,8 +1,13 @@
 # chogison
 
-・ログイン
-・設定内容保管
+## APIの機能
+ -ログイン
+ -設定内容保管
+  -Userテーブルにカラム追加
+ -スケジュール返信
+  -JSON形式でレスポンス
 
+## モデル
 Facility
   id: integer
   name: string
